@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 My portfolio site: [dannorman.dev](dannorman.dev)
+- 👨‍💻 My portfolio site [dannorman.dev](dannorman.dev)
 
 - 📫 How to reach me **dwnorm2@gmail.com**
 
