@@ -25,4 +25,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwnorm2&" alt="dwnorm2" /></p>
+<img align="center" src="https://www.codewars.com/users/dwnorm2/badges/large" alt="codewars" />
 
