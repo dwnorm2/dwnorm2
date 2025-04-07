@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CoinCloud Price Converter](https://github.com/dwnorm2/crypto-converter)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** & **Ruby**
 
 - 👨‍💻 My portfolio site [dannorman.dev](https://dannorman.dev/)
 
